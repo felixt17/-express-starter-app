@@ -1,6 +1,7 @@
-# Getting Started with express-t2s-app-v1
+# Getting Started with express-st
+arter-app
 
-Welcome to **express-t2s-app-v1**, the foundation of your journey toward building a cloud-native, DevOps-ready application using Node.js and Express.
+Welcome to **express-starter-app**, the foundation of your journey toward building a cloud-native, DevOps-ready application using Node.js and Express.
 
 This version sets up a simple web server and introduces you to key concepts like HTTP, Express routing, and serving HTML pages.
 
@@ -49,7 +50,7 @@ express-t2s-app-v1/
 ### 1. Open your terminal and navigate to the project folder
 
 ```bash
-cd express-t2s-app-v1
+cd express-starter-app
 ```
 
 ### 2. Install dependencies
@@ -127,7 +128,7 @@ When you’re done:
 
 Once you're comfortable with this version:
 
-- Move on to `express-t2s-app-v2` to learn how to **Dockerize** this app.
+- Move on to `express-starter-app` to learn how to **Dockerize** this app.
 - Each version builds on this foundation to prepare you for modern cloud infrastructure.
 
 ---
@@ -142,4 +143,5 @@ You’ve just completed your first Express app! You can now:
 
 ---
 
-© 2025 Emmanuel Naweji | Transformed 2 Succeed (T2S)
+© 2025 Felix Tshibang | Beginner2Master 
+
