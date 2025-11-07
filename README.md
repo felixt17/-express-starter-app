@@ -1,5 +1,5 @@
-# Getting Started with express-st
-arter-app
+# Getting Started with express-starter-app
+
 
 Welcome to **express-starter-app**, the foundation of your journey toward building a cloud-native, DevOps-ready application using Node.js and Express.
 
